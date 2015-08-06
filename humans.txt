@@ -1,0 +1,63 @@
+/* TIME */
+
+	Desenvolvedor Web: Desobediente Civil
+	IRC: desci@irc.freenode.net
+	IRC: desci@irc.pirateirc.net
+	IRC: desci@irc.oftc.net
+	IRC: desci@irc.cryto.net
+
+	Mantenedor do servidor: Texas Jack
+	Twitter: @tjackgnu
+	IRC: tjack@irc.pirateirc.net
+
+	Mantenedor do servidor: Iuri Guilherme
+	Qvitter: @iuri@quitter.se
+
+/* AGRADECIMENTOS */
+
+	Tjack que teve um surto psicótico de nojo, raiva, desprezo, agonia, insatisfação e instalou o servidor MurMur só porque não gosta de Google Hangouts.
+
+	Iuri que fez o site mumble.partidopirata.org (e está escrevendo isto agora) só porque odeia Facebook Messenger e Google Hangouts.
+
+	O ódio que nos possibilitou ir para o lado escuro da força e botar essa merda no ar de uma vez.
+
+	Às pessoas que criaram um tutorial em http://agora.cc/tutorial.html e que inspiraram o site http://mumble.partidopirata.org
+
+/* DESAGRADECIMENTOS */
+
+	Esse bando de preguiçosas(os) que ainda não estão no Mumble.
+
+	Gente que marca reunião no Google Hangouts através de evento no Facebook pra tentar aprender a usar Mumble como forma de parar de usar Google Hangouts e grupos de Facebook.
+
+/* SITE */
+	Licença: Kopimi
+	Código fonte: https://notabug.org/piratas/mumble-site
+	Última atualização: 06 de agosto de 2015
+	Linguagens: Português Brasileiro
+	Doctype: HTML5
+	Softwares utilizados:
+		Edição de texto: Vim, Gedit, Notepad++;
+		Edição de imagens: GIMP, Inkscape;
+		Desenvolvimento web: ssh, scp, rsync, git, Git Bash, Gogs, Firefox;
+		Manutenção do site: Xen, Debian, Nginx;
+		Comunicação: Mumble, Telegram, Loomio, Google Hangouts;
+
+/* IMAGENS */
+
+Algumas imagens obtidas do projeto Open Icon Library - https://openiconlibrary.sourceforge.net
+	Boicote a SourceForge!
+
+Imagens com atribuição:
+	"Android robot" por The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.. Licenciado sob CC BY 3.0, via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Android_robot.svg#/media/File:Android_robot.svg
+	"F-Droid Logo 4" by William Theaker, Robert Martinez, Andrew Nayenko - https://gitlab.com/fdroid/fdroidclient/blob/master/media/fdroid-logo-2015/fdroid-logo.svg. Licensed under CC BY-SA 3.0 via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:F-Droid_Logo_4.svg#/media/File:F-Droid_Logo_4.svg
+	"Apple iOS new" by Apple Inc. - Apple Inc. iOS page. Licensed under Public Domain via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Apple_iOS_new.svg#/media/File:Apple_iOS_new.svg
+	"Osx-yosemite-logo" by Source (WP:NFCC#4). Licensed under Fair use via Wikipedia - https://en.wikipedia.org/wiki/File:Osx-yosemite-logo.png#/media/File:Osx-yosemite-logo.png
+	"Windows logo - 2012" by Microsoft - Microsoft. Licensed under Public Domain via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Windows_logo_-_2012.png#/media/File:Windows_logo_-_2012.png
+	"Tux" by Larry Ewing, Simon Budig, Anja Gerwinski - [1]. Licensed under Attribution via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Tux.svg#/media/File:Tux.svg
+	"Logo-ubuntu no(r)-black orange-hex" by Canonical Ltd. - http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_no%C2%AE-black_orange-hex.svg. Licensed under Public Domain via Wikimedia Commons - https://commons.wikimedia.org/wiki/File:Logo-ubuntu_no(r)-black_orange-hex.svg#/media/File:Logo-ubuntu_no(r)-black_orange-hex.svg
+
+/* CÓDIGOS */
+
+	Este site usa Twitter Bootstrap - http://getbootstrap.com
+
+	Este site usa Social Share Privacy - https://panzi.github.io/SocialSharePrivacy/
