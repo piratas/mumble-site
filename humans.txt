@@ -1,3 +1,5 @@
+Content-Type: text/plain; charset=UTF-8
+<meta charset="utf-8" />
 /* TIME */
 
 	Desenvolvedor Web: Desobediente Civil
@@ -32,7 +34,7 @@
 /* SITE */
 	Licença: Kopimi
 	Código fonte: https://notabug.org/piratas/mumble-site
-	Última atualização: 06 de agosto de 2015
+	Última atualização: 25 de agosto de 2015
 	Linguagens: Português Brasileiro
 	Doctype: HTML5
 	Softwares utilizados:
