@@ -32,7 +32,7 @@
 /* SITE */
 	Licença: Kopimi
 	Código fonte: https://notabug.org/piratas/mumble-site
-	Última atualização: 25 de agosto de 2015
+	Última atualização: 17 de setembro de 2015
 	Linguagens: Português Brasileiro
 	Doctype: HTML5
 	Softwares utilizados:
